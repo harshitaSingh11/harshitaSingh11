@@ -13,8 +13,6 @@
 
 - 📫 How to reach me **sharshita352@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/harshitaSingh11/my-resume](https://github.com/harshitaSingh11/my-resume)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/harshita-singh-6676711a9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harshita-singh-6676711a9" height="30" width="40" /></a>
