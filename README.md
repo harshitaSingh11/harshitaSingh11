@@ -1,23 +1,15 @@
 <h1 align="center">Hi 👋, I'm Harshita Singh</h1>
-<h3 align="center">I am a third-year undergraduate student pursuing a Bachelor of Technology degree in Computer Science and Engineering at Harcourt Butler Technical University (HBTU), Kanpur. I have a passion for Full-Stack development and you can find me taking it to the next level with Data Structures and thoughtful system designs.</h3>
+<h3 align="center">I am a final year undergraduate student pursuing a Bachelor of Technology degree in Computer Science and Engineering at Harcourt Butler Technical University (HBTU), Kanpur. I have a passion for Full-Stack development and you can find me taking it to the next level with Data Structures and thoughtful system designs.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshitasingh11&label=Profile%20views&color=0e75b6&style=flat" alt="harshitasingh11" /> </p>
 
 - 🔭 I’m currently working on **React JS projects.**
-
-- 🌱 I’m currently learning **Django.**
-
-- 🤝 I’m looking for help with **Competitive Programming.**
-
-- 💬 Ask me about **React JS, Flask and basically anything about Web Development.**
 
 - 📫 How to reach me **sharshita352@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/harshita-singh-6676711a9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harshita-singh-6676711a9" height="30" width="40" /></a>
-<a href="https://instagram.com/_harshita.singh__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_harshita.singh__" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/sharshita352" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sharshita352" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
